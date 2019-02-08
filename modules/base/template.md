@@ -1,10 +1,10 @@
 ---
-description: Template description.
+description: Some simple description the in one line explains the file.
 ---
 
-# Module
+# Template
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vehicula faucibus urna, ac pellentesque velit ullamcorper a. Pellentesque mollis mauris ut mauris ultrices, quis facilisis sem commodo. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vehicula faucibus urna, ac pellentesque velit ullamcorper a. Pellentesque mollis mauris ut mauris ultrices, quis facilisis sem commodo.
 
 | Resource | Link |
 | :--- | :--- |
@@ -13,39 +13,51 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vehicula faucibu
 
 ## Usage
 
-```zsh
-fzf
+```bash
+command
 ```
 
-#### Integrations
+### Integrations
 
 Vivamus tincidunt vel dui a imperdiet. Morbi sed odio ut turpis cursus gravida. Mauris in lectus at orci elementum lobortis non vel quam.
 
-#### Configuration Files
+### Configuration Files
 
 | Location | Description |
 | :--- | :--- |
 | ~/.location | Configuration file. |
 
-## Installation Instructions
+## Installation
 
-```text
-brew install fzf
+{% tabs %}
+{% tab title="MacOS" %}
+```bash
+brew install <module>
 ```
 
-#### Post-install steps
+#### Post-Install steps
 
 Maecenas convallis vitae ex nec lacinia. Proin eu dictum dui, nec blandit arcu. Aenean interdum vehicula malesuada. Nullam ut diam eu nulla dignissim porta eu at elit. Mauris ac nunc ipsum.
 
 #### Dependencies
 
-Maecenas convallis vitae ex nec lacinia. Proin eu dictum dui, nec blandit arcu. Aenean interdum vehicula malesuada. Nullam ut diam eu nulla dignissim porta eu at elit. Mauris ac nunc ipsum.
+| Name | Version |
+| :--- | :--- |
+| N/A | N/A |
+
+#### Notes
+
+N/A
+{% endtab %}
+
+{% tab title="Debian" %}
+&lt;Pending&gt;
+{% endtab %}
+{% endtabs %}
 
 ## Frequently Asked Questions
 
-#### This is a question?
+### This is a question?
 
 And this is an answer.
-
-
 
