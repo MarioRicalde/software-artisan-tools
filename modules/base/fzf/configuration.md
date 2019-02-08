@@ -1,4 +1,4 @@
-### Configuration Files
+# Configuration Files
 
 | Location | Description |
 | :--- | :--- |

@@ -1,4 +1,4 @@
-## Debian Installation
+# Debian Installation
 
 ```bash
 sudo apt-get install fzf

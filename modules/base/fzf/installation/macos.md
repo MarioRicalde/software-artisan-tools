@@ -1,4 +1,4 @@
-## MacOS Installation
+# MacOS Installation
 
 ```bash
 brew install fzf
