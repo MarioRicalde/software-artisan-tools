@@ -51,7 +51,23 @@ N/A
 {% endtab %}
 
 {% tab title="Debian" %}
-&lt;Pending&gt;
+```bash
+brew install <module>
+```
+
+#### Post-Install steps
+
+Maecenas convallis vitae ex nec lacinia. Proin eu dictum dui, nec blandit arcu. Aenean interdum vehicula malesuada. Nullam ut diam eu nulla dignissim porta eu at elit. Mauris ac nunc ipsum.
+
+#### Dependencies
+
+| Name | Version |
+| :--- | :--- |
+| N/A | N/A |
+
+#### Notes
+
+N/A
 {% endtab %}
 {% endtabs %}
 
