@@ -14,12 +14,6 @@ Interactive Unix filter for command-line that can be used with **any list**; fil
 | Documentation | [https://github.com/junegunn/fzf/\#usage](https://github.com/junegunn/fzf/#usage) |
 | Related projects | [https://github.com/junegunn/fzf/wiki/Related-projects](https://github.com/junegunn/fzf/wiki/Related-projects) |
 
-## Usage
-
-```bash
-fzf
-```
-
 ### Integrations
 
 | Tool | Link | Description | Status |
@@ -33,49 +27,6 @@ fzf
 | :--- | :--- |
 | &lt;Pending&gt; | &lt;Pending&gt; |
 
-## Manual installation
-
-{% tabs %}
-{% tab title="MacOS" %}
-```bash
-brew install fzf
-```
-
-#### Post-Install steps
-
-&lt;Pending&gt;
-
-#### Dependencies
-
-| Name | Version |
-| :--- | :--- |
-| N/A | N/A |
-
-#### Notes
-
-N/A
-{% endtab %}
-
-{% tab title="Debian <Pending>" %}
-```bash
-<Pending>
-```
-
-#### Post-Install steps
-
-&lt;Pending&gt;
-
-#### Dependencies
-
-| Name | Version |
-| :--- | :--- |
-| N/A | N/A |
-
-#### Notes
-
-&lt;Pending&gt;
-{% endtab %}
-{% endtabs %}
 
 ## Why is this tool installed?
 

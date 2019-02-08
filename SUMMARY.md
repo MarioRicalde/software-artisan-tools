@@ -4,8 +4,9 @@
 * [Modules](modules/README.md)
   * [macos-changes](modules/macos-changes.md)
   * [base](modules/base/README.md)
-    * [Nested Test](modules/base/nested-test/README.md)
-      * [Nested 1](modules/base/nested-test/nested-1.md)
-      * [Nested 2](modules/base/nested-test/nested-2.md)
-    * [fzf](modules/base/fzf.md)
+    * [fzf](modules/base/fzf/README.md)
+      * [Usage](modules/base/fzf/usage.md)
+      * [Installation](modules/base/fzf/installation/README.md)
+        * [MacOS](modules/base/fzf/installation/macos.md)
+        * [Debian](modules/base/fzf/installation/debian.md)
 
