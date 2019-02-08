@@ -1,43 +1,49 @@
 ---
-description: Some simple description the in one line explains the file.
+description: A general-purpose command-line fuzzy finder.
 ---
 
-# Template
+# fzf
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vehicula faucibus urna, ac pellentesque velit ullamcorper a. Pellentesque mollis mauris ut mauris ultrices, quis facilisis sem commodo.
+![Image Source: https://github.com/junegunn/fzf](../../.gitbook/assets/image.png)
+
+Interactive Unix filter for command-line that can be used with **any list**; files, command history, processes, hostnames, bookmarks, git commits, etc.
 
 | Resource | Link |
 | :--- | :--- |
-| Repository | - |
-| Documentation | - |
+| Repository | [https://github.com/junegunn/fzf/](https://github.com/junegunn/fzf/) |
+| Documentation | [https://github.com/junegunn/fzf/\#usage](https://github.com/junegunn/fzf/#usage) |
+| Related projects | [https://github.com/junegunn/fzf/wiki/Related-projects](https://github.com/junegunn/fzf/wiki/Related-projects) |
 
 ## Usage
 
 ```bash
-command
+fzf
 ```
 
 ### Integrations
 
-Vivamus tincidunt vel dui a imperdiet. Morbi sed odio ut turpis cursus gravida. Mauris in lectus at orci elementum lobortis non vel quam.
+| Tool | Link | Description | Status |
+| :--- | :--- | :--- | :--- |
+| `vim` | [https://github.com/junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) | Fuzzy finder for files within vim. | Packaged. |
+| `zsh` | [https://github.com/urbainvaes/fzf-marks](https://github.com/urbainvaes/fzf-marks) | Bookmark directories and access them with fzf. | &lt;Pending&gt; |
 
 ### Configuration Files
 
 | Location | Description |
 | :--- | :--- |
-| ~/.location | Configuration file. |
+| &lt;Pending&gt; | &lt;Pending&gt; |
 
 ## Installation
 
 {% tabs %}
 {% tab title="MacOS" %}
 ```bash
-brew install <module>
+brew install fzf
 ```
 
 #### Post-Install steps
 
-Maecenas convallis vitae ex nec lacinia. Proin eu dictum dui, nec blandit arcu. Aenean interdum vehicula malesuada. Nullam ut diam eu nulla dignissim porta eu at elit. Mauris ac nunc ipsum.
+&lt;Pending&gt;
 
 #### Dependencies
 
@@ -50,14 +56,14 @@ Maecenas convallis vitae ex nec lacinia. Proin eu dictum dui, nec blandit arcu. 
 N/A
 {% endtab %}
 
-{% tab title="Debian" %}
+{% tab title="Debian <Pending>" %}
 ```bash
-brew install <module>
+<Pending>
 ```
 
 #### Post-Install steps
 
-Maecenas convallis vitae ex nec lacinia. Proin eu dictum dui, nec blandit arcu. Aenean interdum vehicula malesuada. Nullam ut diam eu nulla dignissim porta eu at elit. Mauris ac nunc ipsum.
+&lt;Pending&gt;
 
 #### Dependencies
 
@@ -67,13 +73,11 @@ Maecenas convallis vitae ex nec lacinia. Proin eu dictum dui, nec blandit arcu. 
 
 #### Notes
 
-N/A
+&lt;Pending&gt;
 {% endtab %}
 {% endtabs %}
 
-## Frequently Asked Questions
+## Why is this tool installed?
 
-### This is a question?
-
-And this is an answer.
+It's a general-purpose tool for traversing files, directories and any kind of list with blazing-fast speeds without adding any extra dependencies. It also integrates with third party tools, including popular text-editors, shells and more.
 
