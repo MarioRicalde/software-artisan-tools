@@ -8,12 +8,6 @@ description: A general-purpose command-line fuzzy finder.
 
 Interactive Unix filter for command-line that can be used with **any list**; files, command history, processes, hostnames, bookmarks, git commits, etc.
 
-| Resource | Link |
-| :--- | :--- |
-| Repository | [https://github.com/junegunn/fzf/](https://github.com/junegunn/fzf/) |
-| Documentation | [https://github.com/junegunn/fzf/\#usage](https://github.com/junegunn/fzf/#usage) |
-| Related projects | [https://github.com/junegunn/fzf/wiki/Related-projects](https://github.com/junegunn/fzf/wiki/Related-projects) |
-
 ### Integrations
 
 | Tool | Link | Description | Status |
