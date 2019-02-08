@@ -3,7 +3,7 @@
 * [What is this?](README.md)
 * [Modules](modules/README.md)
   * [macos-changes](modules/macos-changes.md)
-  * [base](modules/base/README.md)
+  * [Base](modules/base/README.md)
     * [fzf](modules/base/fzf/README.md)
       * [Usage](modules/base/fzf/usage.md)
       * [Configuration](modules/base/fzf/configuration.md)
