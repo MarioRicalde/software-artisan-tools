@@ -10,4 +10,5 @@
       * [Installation](modules/base/fzf/installation/README.md)
         * [MacOS](modules/base/fzf/installation/macos.md)
         * [Debian](modules/base/fzf/installation/debian.md)
+      * [Resources](modules/base/fzf/resources.md)
 
