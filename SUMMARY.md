@@ -7,6 +7,7 @@
     * [fzf](modules/base/fzf/README.md)
       * [Usage](modules/base/fzf/usage.md)
       * [Configuration](modules/base/fzf/configuration.md)
+      * [Integrations](modules/base/fzf/integrations.md)
       * [Installation](modules/base/fzf/installation/README.md)
         * [MacOS](modules/base/fzf/installation/macos.md)
         * [Debian](modules/base/fzf/installation/debian.md)
