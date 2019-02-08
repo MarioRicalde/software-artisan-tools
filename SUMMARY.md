@@ -5,5 +5,4 @@
   * [macos-changes](modules/macos-changes.md)
   * [base](modules/base/README.md)
     * [fzf](modules/base/fzf.md)
-    * [Template](modules/base/template.md)
 

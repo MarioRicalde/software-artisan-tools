@@ -33,7 +33,7 @@ fzf
 | :--- | :--- |
 | &lt;Pending&gt; | &lt;Pending&gt; |
 
-## Installation
+## Manual installation
 
 {% tabs %}
 {% tab title="MacOS" %}
