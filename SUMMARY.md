@@ -12,4 +12,12 @@
         * [MacOS](modules/base/fzf/installation/macos.md)
         * [Debian](modules/base/fzf/installation/debian.md)
       * [Resources](modules/base/fzf/resources.md)
+    * [zsh](modules/base/zsh/README.md)
+      * [Usage](modules/base/zsh/usage.md)
+      * [Configuration](modules/base/zsh/configuration.md)
+      * [Integrations](modules/base/zsh/integrations.md)
+      * [Installation](modules/base/zsh/installation/README.md)
+        * [MacOS](modules/base/zsh/installation/macos.md)
+        * [Debian](modules/base/zsh/installation/debian.md)
+      * [Resources](modules/base/zsh/resources.md)
 
