@@ -2,7 +2,6 @@
 
 | Resource | Link |
 | :--- | :--- |
-| Repository | [https://github.com/junegunn/fzf/](https://github.com/junegunn/fzf/) |
-| Documentation | [https://github.com/junegunn/fzf/\#usage](https://github.com/junegunn/fzf/#usage) |
-| Related projects | [https://github.com/junegunn/fzf/wiki/Related-projects](https://github.com/junegunn/fzf/wiki/Related-projects) |
-
+| Repository | [http://www.zsh.org/](http://www.zsh.org/) |
+| Documentation | [http://zsh.sourceforge.net/Doc/Release/zsh_toc.html](http://zsh.sourceforge.net/Doc/Release/zsh_toc.html) |
+| Related projects | [https://github.com/unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) |

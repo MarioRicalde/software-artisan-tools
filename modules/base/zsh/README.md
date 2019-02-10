@@ -1,9 +1,9 @@
 ---
-description: A general-purpose command-line fuzzy finder.
+description: Shell
 ---
 
-# fzf
+# zsh
 
-![Image Source: https://github.com/junegunn/fzf](../../../.gitbook/assets/image.png)
+![Image Source: ](PENDING)
 
-Interactive Unix filter for command-line that can be used with **any list**; files, command history, processes, hostnames, bookmarks, git commits, etc.
+Zsh is a shell designed for interactive use, although it is also a powerful scripting language. 
